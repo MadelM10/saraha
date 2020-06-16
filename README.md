@@ -1,2 +1,2 @@
 # saraha 
-It is a site like https://www.sarahah.com written by PHP .
+It is a site like https://www.sarahah.com built by PHP and MYSQL.
